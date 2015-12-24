@@ -1,7 +1,7 @@
 function [ output_args ] = rotateX( input_args )
 %rotateX Summary of this function goes here
 
-% Author : Gunjan Patel (germain@eng.utah.edu) 
+% Author : Gunjan Patel  
 % Date   : DEC-2015 
 % Function   : rotateX 
 %Description : Rotation matrices are used to rotate a vector into a new direction. 
