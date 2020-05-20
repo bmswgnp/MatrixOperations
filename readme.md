@@ -1,1 +1,1 @@
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/MatrixOperations/node-MatrixOperations)](https://paperswithcode.com/sota/MatrixOperations?p=MatrixOperations-with-graph)
+[![BMSW](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/MatrixOperations/node-MatrixOperations)](https://paperswithcode.com/sota/MatrixOperations?p=MatrixOperations-with-graph)
